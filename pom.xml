@@ -37,14 +37,14 @@
     <distributionManagement>
              <repository>
             <id>nexus-releases</id>
-            <name>Nexus Releases</name>
-            <url>http://YOUR_NEXUS_IP:8081/repository/maven-releases/</url>
+            <name>zomato Nexus Releases</name>
+            <url>http://18.132.64.67:8081/repository/zomato-Release/</url>
         </repository>
              
         <snapshotRepository>
             <id>nexus-snapshots</id>
-            <name>Nexus Snapshots</name>
-            <url>http://YOUR_NEXUS_IP:8081/repository/maven-snapshots/</url>
+            <name>zomato Nexus Snapshots</name>
+            <url>http://18.132.64.67:8081/repository/zomato-Snapshot/</url>
         </snapshotRepository>
 
      </distributionManagement>
