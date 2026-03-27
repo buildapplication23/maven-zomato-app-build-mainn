@@ -27,7 +27,6 @@
     </plugins>
   </build>
   
-  <build>
   <finalName>maven-web-app</finalName>
   <plugins>
     <plugin>
